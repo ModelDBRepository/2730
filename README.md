@@ -15,4 +15,5 @@ For more information, contact andrew.davison@iaf.cnrs-gif.fr
 
 ## Changelog
 2022-05: Updated MOD files to compile with the latest neuron releases where ion variables used as STATE can not be declared as GLOBAL.
+
 2025-05-27: Standardized to Markdown.
